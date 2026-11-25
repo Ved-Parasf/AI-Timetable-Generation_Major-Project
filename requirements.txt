@@ -1,0 +1,3 @@
+streamlit>=1.50,<2
+ortools
+reportlab>=4.0,<5
